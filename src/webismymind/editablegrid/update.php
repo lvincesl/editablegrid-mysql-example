@@ -9,8 +9,8 @@
  * Dual licensed under the MIT or GPL Version 2 licenses.
  * http://editablegrid.net/license
  */
-
-require_once('config.php');
+      
+require_once('config.php');         
 
 // Database connection                                   
 $mysqli = mysqli_init();
